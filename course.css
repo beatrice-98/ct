@@ -1,0 +1,44 @@
+            #div1{background-image:url(img/web%20design@2x.png); 
+			      background-repeat: no-repeat;background-position-x: right; 
+				  background-position-y:center; width: auto;height: 800px;}
+			.nav1{font-size: 20px; padding-left: 20px;height:50px;line-height:50px;}
+			a{font-size:18px;padding-left: 20px;padding-right:20px;height:50px;line-height:50px;}
+			.span1{font-size: 20px; height:50px;line-height:50px;}
+			 h1{padding-top: 200px;line-height: 55px;padding-bottom: 30px;} 
+			.p1{font-size: 20px;line-height: 50px;padding-bottom: 40px;}
+			.btn0{width: 150px;border: none; background-color: #7086FE; color:#FFFFFF ;
+			       padding: 10px; font-size: 24px;border-radius: 30px;outline: none;}
+			img{padding-bottom: 30px;}
+			#div2{background-color: #F5F5F5;height: 1000px;width: auto;}
+			.container1{text-align:center; padding-top: 100px;}
+			h2{ padding-bottom: 30px; font-size: 45px;}
+			.row1{padding-top: 150px; }
+			.p2{font-size: 26px;}
+			.span2{font-size: 30px;color: #2AABD2;}
+			#div3{background-color:#FCF8E3;height: 800px;width: auto;}
+			.p3{font-size: 24px; padding-bottom: 10px;}
+			#div4{height: 800px;width: auto;background-image: url(img/comment%20regulation@2x.png);
+			   background-repeat: no-repeat;background-position-x: left;
+			   background-position-y: center;}
+			.p4{font-size: 40px;padding-top: 30px;}
+			li{font-size: 22px;padding-top: 25px;}
+			#div5{background-color:#FCF8E3;height: 800px;width: auto;}
+			.col{background-color: #FFFFFF;}
+			.p5{font-size: 30px; color: #204D74;}
+			.p5-1{font-size: 24px;}
+			#div6{background-color: #7086FE;height: 800px;width: auto; }
+			.container2{text-align:center;color:#FFFFFF}
+			.p6{font-size: 40px;  padding-top: 150px;}
+			.p6-1{font-size: 22px; padding-top: 20px; padding-bottom: 20px;}
+			.p6-2{font-size: 18px; line-height: 26px;}
+			#div7{height: 800px;width: auto; }
+			#div8{height: 800px;width: auto; background-color: #F5F5F5; background-image: url(img/team@2x.png);
+			          background-repeat: no-repeat; background-position-x: right;}
+			input{background-color: #FFFFFF; width: 400px;height: 50px; margin: 10px;
+			     border: 0;}
+			.btn1{border-radius: 30px;background-color: #2AABD2; color: #FFFFFF;outline: none;
+			      width: 200px; font-size: 24px; text-align: center;padding: 10px;margin: 20px;}			  
+			#div9{height: 150px;width: auto;background-color: #2AABD2; }
+			.p9{font-size: 20px;padding-left: 300px; color: #FFFFFF;padding-top: 30px;float: left;}
+			
+				 
